@@ -6,3 +6,10 @@ Check the data type for Lua variable
 ```shell
 luarocks install typeof
 ```
+
+## Test
+
+```shell
+$ lua spec/sanity.lua
+all passed
+```
