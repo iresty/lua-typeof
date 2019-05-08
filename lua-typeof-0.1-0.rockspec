@@ -5,7 +5,7 @@ source = {
    tag = "v0.1"
 }
 description = {
-   summary = "Nonblocking Lua etcd driver library for OpenResty",
+   summary = "Check the data type for Lua variable",
    homepage = "https://github.com/iresty/lua-typeof",
    license = "Apache License 2.0",
    maintainer = "Yuansheng Wang <membphis@gmail.com>"
